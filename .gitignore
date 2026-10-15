@@ -1,0 +1,10 @@
+# Entornos virtuales
+venv/
+env/
+.env
+
+# Memoria y temporales
+memoria_agente.json
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
